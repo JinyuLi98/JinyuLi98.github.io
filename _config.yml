@@ -26,16 +26,16 @@ author:
   avatar           : "profile.png"
   name             : "Jinyu LI"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. in Structural Engineering and Engineer at the CASST. Primarily engaged in research on building fire safety, monitoring and early-warning systems."
+  location         : "Beijing, China"
+  employer         : "China Academy of Safety Science and Technology (CASST)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lijinyu1216@163.com/jinyuli1216@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=yNBkVMcAAAAJ&hl=en&oi=sra"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
